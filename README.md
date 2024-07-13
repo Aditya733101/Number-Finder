@@ -2,7 +2,7 @@
 
 # Number-Finder
 
-Built a Truecaller-inspired phone number tracker application using PHP, HTML, CSS, JavaScript, and a MySQL database. This application allows users to identify unknown callers and potentially retrieve their location (if the number exists within the app's user base). It prioritizes a user-friendly experience with features like registration, login, and efficient phone number lookups..
+ built a Truecaller-inspired phone number tracker application using PHP, HTML, CSS, JavaScript, and a MySQL database. This application allows users to identify unknown callers and potentially retrieve their location (if the number exists within the app's user base). It prioritizes a user-friendly experience with features like registration, login, and efficient phone number lookups.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Built a Truecaller-inspired phone number tracker application using PHP, HTML, CS
 
 ## Features
 
-- **IDeveloped a phone number tracking application:** View the latest news headlines.
+- **I developed a phone number tracking application:** View the latest news headlines.
 - **Leveraged Truecaller functionality: ** Built with PHP, HTML, CSS, and JavaScript with a MySQL database.
 - **Streamlined user experience:**  Enables users to identify unknown callers and retrieve associated location data (if available in the database)..
 - **Responsive Design:** Enjoy a seamless experience on different devices.
